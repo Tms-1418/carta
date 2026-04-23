@@ -41,7 +41,7 @@ else:
     with st.container():
         st.markdown('<div class = "letter-box"', unsafe_allow_html=True)
 
-        st.subheader("Mi mujer linda y mi mundo enter, ")
+        st.subheader("Mi mujer linda y mi mundo entero, ")
 
         texto_carta = """
         Simplemente amor mío me gusta recordarte cuanto te amo, puede que sea un día normal,
